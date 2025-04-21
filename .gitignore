@@ -1,0 +1,15 @@
+# Sistema operacional
+.DS_Store
+__MACOSX/
+Thumbs.db
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
